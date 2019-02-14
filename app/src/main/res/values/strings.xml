@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Calculadora_A18</string>
+    <string name="btnUno">1</string>
+    <string name="btnDos">2</string>
+    <string name="btnTres">3</string>
+    <string name="btnCuatro">4</string>
+    <string name="btnCinco">5</string>
+    <string name="btnSeis">6</string>
+    <string name="btnSiete">7</string>
+    <string name="btnOcho">8</string>
+    <string name="btnNueve">9</string>
+    <string name="btnCero">0</string>
+    <string name="btnBorrar">BORRAR</string>
+    <string name="btnIgual">=</string>
+    <string name="btnSuma">+</string>
+    <string name="btnResta">-</string>
+    <string name="btnMultiplicar">*</string>
+    <string name="btnDivision">/</string>
+    <string name="btnPunto">.</string>
+    <string name="btnSen">sin</string>
+    <string name="btnCos">cos</string>
+    <string name="btnTan">tan</string>
+    <string name="btnCot">cot</string>
+    <string name="btnSec">sec</string>
+    <string name="btnCsc">csc</string>
+    <string name="btnPotencia">^</string>
+    <string name="btnParenIzq">(</string>
+    <string name="btnParenDer">)</string>
+</resources>
